@@ -3,8 +3,8 @@ const path = require("path");
 
 // ------------ EDIT THESE VARIABLES -----------------
 const action = "create"; // "create" or "delete"
-const fileName = "two_sum"; // no extension
-const nestedPath = "Arrays/TwoPointers";
+const fileName = "pattern"; // no extension
+const nestedPath = "Pattern";
 // keep "" if you don't want nested folders
 // -----------------------------------------------------
 
