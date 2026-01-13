@@ -3,8 +3,8 @@ const path = require("path");
 
 // ------------ EDIT THESE VARIABLES -----------------
 const action = "create"; // "create" or "delete"
-const fileName = "pattern"; // no extension
-const nestedPath = "Pattern";
+const fileName = "Maths"; // no extension
+const nestedPath = "BasicMaths";
 // keep "" if you don't want nested folders
 // -----------------------------------------------------
 
